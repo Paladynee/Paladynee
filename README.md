@@ -1,6 +1,6 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/671186df791f57dd609b6e83?variant=dark)](https://roadmap.sh)
 - 🌱 Currently studying in Turkiye
-- 📫 Reach me at [osu!](https://osu.ppy.sh/users/13210198), [reddit](https://www.reddit.com/u/Paladynee), discord: voxell
+- 📫 Reach me on discord: voxell
 
 <!--
 **Paladynee/Paladynee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
